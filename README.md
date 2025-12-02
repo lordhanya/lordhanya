@@ -1,6 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Ashif — a Computer Science student and web developer passionate about building responsive, user-friendly websites. I love writing clean code, learning new technologies, and creating digital experiences that look great and perform even better. 🚀
+👋 Hi, I’m Ashif — a Computer Science student and passionate Web Developer who enjoys building clean, responsive, and user-centric digital experiences. I love writing efficient code, learning new technologies, and turning ideas into functional products that not only look great but perform exceptionally well.
 
+I’m continuously exploring modern web practices including Computer Networks, Operating systems, Cyber security, improving my skills, and working on projects that challenge me to grow as a developer. 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/06__ashif__22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashif-rahman-69911a354/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashifrahman8638471722@gmail.com) 
