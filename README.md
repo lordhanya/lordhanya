@@ -6,12 +6,13 @@ Building software, solving problems, and exploring computer science.
 
 ## About Me
 
-Computer Science student and Front-End Developer passionate about creating responsive, user-friendly, and impactful digital experiences.
+Computer Science student with a strong interest in software development and problem-solving. I enjoy building practical applications, exploring new technologies, and strengthening my understanding of core computer science concepts. My experience includes front-end web development, mobile application development with Flutter, and working with databases, cloud platforms, and development tools.
 
-* **Current work:** Building personal projects and expanding my development portfolio
-* **Currently learning:** Flutter, Mobile Development, and System Design
-* **Ask me about:** HTML, CSS, JavaScript, Front-End Development, and Git
-* **Fun fact:** I enjoy turning ideas into real-world applications through code
+- 🎓 Pursuing a Bachelor's degree in Computer Science
+- 💻 Building web and mobile applications
+- 🌱 Currently learning Flutter, System Design, and Software Engineering principles
+- 🔍 Interested in Software Development, Computer Networks, and Emerging Technologies
+- 🚀 Always looking for opportunities to learn, build, and grow as a developer
 
 ---
 
