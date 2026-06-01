@@ -142,3 +142,9 @@ Currently exploring open-source projects and looking forward to making meaningfu
 * Portfolio: https://ashifcodes.tech
 
 ---
+
+## Support
+
+If you find my work helpful, consider supporting me:
+
+- [https://ashifcodes.tech](https://ashifcodes.tech)
