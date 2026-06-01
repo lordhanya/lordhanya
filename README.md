@@ -80,14 +80,6 @@ Computer Science student and Front-End Developer passionate about creating respo
 
 ---
 
-## Projects
-
-### Featured Projects
-
-Showcase your best projects here with a short description and key technologies used.
-
----
-
 ## Tech Stack
 
 * Front-End Development
