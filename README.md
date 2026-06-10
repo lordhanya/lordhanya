@@ -4,7 +4,7 @@ Building software, solving problems, and exploring computer science.
 
 ---
 
-## About Me
+## 🧐 About Me
 
 Computer Science student with a strong backgroun in software development and problem-solving. I enjoy building practical applications, exploring new technologies, and strengthening my understanding of core computer science concepts. My experience includes Full-Stack web development, mobile application development with Flutter, and working with databases, cloud platforms, and development tools.
 
@@ -16,9 +16,9 @@ Computer Science student with a strong backgroun in software development and pro
 
 ---
 
-## Skills
+## 🧠 Skills
 
-### Programming Languages
+### 👾 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
@@ -27,23 +27,25 @@ Computer Science student with a strong backgroun in software development and pro
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 
-### Front-End Development
+### </> Full-Stack Development
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 
-### Mobile Development
+### 📱 Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
 
-### Databases & Backend Technologies
+### 🛢️ Databases & Backend Technologies
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge\&logo=firebase\&logoColor=ffcd34)
 
-### Development Tools
+### 🛠️ Development Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
@@ -51,19 +53,19 @@ Computer Science student with a strong backgroun in software development and pro
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge\&logo=Gradle\&logoColor=white)
 
-### Cloud & Deployment
+### 🖧 Cloud & Deployment
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=Cloudflare\&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge\&logo=google-cloud\&logoColor=white)
 
-### Data Science & Scientific Computing
+### 💻 Data Science & Scientific Computing
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
 
-### Design & Creative Tools
+### 🎨 Design & Creative Tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
@@ -73,7 +75,7 @@ Computer Science student with a strong backgroun in software development and pro
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 
 ![](https://readme-stats-github.pages.dev/api/top-langs?username=lordhanya&theme=algolia&layout=compact&hide_border=true)
@@ -81,7 +83,7 @@ Computer Science student with a strong backgroun in software development and pro
 
 ---
 
-## Tech Stack
+## 🌐 Tech Stack
 
 * Full-Stack Development
 * Mobile App Development
@@ -91,7 +93,7 @@ Computer Science student with a strong backgroun in software development and pro
 
 ---
 
-## Learning Now
+## 🎯 Learning Now
 
 * Flutter Development
 * Data Structures & Algorithms
@@ -100,7 +102,7 @@ Computer Science student with a strong backgroun in software development and pro
 
 ---
 
-## Current Goals
+## 🏆 Current Goals
 
 - [ ] Build more real-world projects
   - Focus on creating applications that solve practical problems.
@@ -116,27 +118,27 @@ Computer Science student with a strong backgroun in software development and pro
 
 ---
 
-## Open Source Contributions
+## 🙌 Open Source Contributions
 
 Currently exploring open-source projects and looking forward to making meaningful contributions to the developer community.
 
 ---
 
-## Connect with Me
+## 🤝 Connect with Me
 
 * GitHub: https://github.com/lordhanya
 * LinkedIn: https://linkedin.com/in/ashif-rahman-69911a354
 
 ---
 
-## Contact
+## 📩 Contact
 
 * Email: [ashifrahman8638471722@gmail.com](ashifrahman8638471722@gmail.com)
 * Portfolio: https://ashifcodes.tech
 
 ---
 
-## Support
+## 🤗 Support
 
 If you find my work helpful, consider supporting me:
 
