@@ -83,7 +83,7 @@ Computer Science student with a strong backgroun in software development and pro
 
 ## Tech Stack
 
-* Front-End Development
+* Full-Stack Development
 * Mobile App Development
 * Database Management
 * Cloud Deployment
