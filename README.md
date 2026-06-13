@@ -6,7 +6,7 @@ Building software, solving problems, and exploring computer science.
 
 ## 🧐 About Me
 
-Computer Science student with a strong backgroun in software development and problem-solving. I enjoy building practical applications, exploring new technologies, and strengthening my understanding of core computer science concepts. My experience includes Full-Stack web development, mobile application development with Flutter, and working with databases, cloud platforms, and development tools.
+Computer Science student with a strong background in software development and problem-solving. I enjoy building practical applications, exploring new technologies, and strengthening my understanding of core computer science concepts. My experience includes Full-Stack web development, mobile application development with Flutter, and working with databases, cloud platforms, and development tools.
 
 - 🎓 Pursuing a Bachelor's degree in Computer Science with Honours
 - 💻 Building web and mobile applications
