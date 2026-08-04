@@ -133,8 +133,8 @@ Currently exploring open-source projects and looking forward to making meaningfu
 
 ## 📩 Contact
 
-* Email: [ashifrahman8638471722@gmail.com](ashifrahman8638471722@gmail.com)
-* Portfolio: https://ashifcodes.tech
+* Email: [md.ashif.dev@gmail.com](md.ashif.dev@gmail.com)
+* Portfolio: [ashifcodes.tech](https://ashifcodes.tech)
 
 ---
 
