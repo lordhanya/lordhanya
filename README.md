@@ -79,7 +79,7 @@ Computer Science student with a strong background in software development and pr
 
 
 ![](https://readme-stats-github.pages.dev/api/top-langs?username=lordhanya&theme=algolia&layout=compact&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=lordhanya&theme=algolia&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lordhanya&theme=algolia&hide_border=true&v=2)
 
 ---
 
