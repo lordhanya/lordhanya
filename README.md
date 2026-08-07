@@ -127,7 +127,7 @@ Currently exploring open-source projects and looking forward to making meaningfu
 ## 🤝 Connect with Me
 
 * GitHub: https://github.com/lordhanya
-* LinkedIn: https://linkedin.com/in/ashif-rahman-69911a354
+* LinkedIn: https://linkedin.com/in/mdashifrahman
 
 ---
 
