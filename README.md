@@ -75,6 +75,19 @@ Computer Science student with a strong background in software development and pr
 
 ---
 
+## 📊 Commits · Streak · Stats
+
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api?username=lordhanya&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=lordhanya&theme=algolia&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=lordhanya&theme=algolia&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <picture>
