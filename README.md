@@ -1,4 +1,10 @@
-# Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:7C3AED,100:00D9FF&height=220&section=header&text=Md%20Ashif%20Rahman&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Building%20software%20·%20Solving%20problems%20·%20Exploring%20CS&descSize=16&descAlignY=56&animation=fadeIn" width="100%" />
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashif+%F0%9F%91%8B;CS+Student+%F0%9F%8E%93;Full-Stack+%26+Flutter+Developer+%F0%9F%93%B1;Learning+System+Design+%26+DSA+%F0%9F%8C%B1)](https://github.com/lordhanya)
+
+</div>
 
 Building software, solving problems, and exploring computer science.
 
@@ -77,9 +83,24 @@ Computer Science student with a strong background in software development and pr
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lordhanya&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=lordhanya&theme=algolia&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
-![](https://readme-stats-github.pages.dev/api/top-langs?username=lordhanya&theme=algolia&layout=compact&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=lordhanya&theme=algolia&hide_border=true&v=2)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordhanya&theme=algolia&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordhanya/lordhanya/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lordhanya/lordhanya/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake eating my contribution graph" src="https://raw.githubusercontent.com/lordhanya/lordhanya/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -106,13 +127,10 @@ Computer Science student with a strong background in software development and pr
 
 - [ ] Build more real-world projects
   - Focus on creating applications that solve practical problems.
-
 - [ ] Strengthen Computer Science fundamentals
   - Improve understanding of Data Structures, Algorithms, DBMS, Operating Systems, and Computer Networks.
-
 - [ ] Expand Mobile Development Skills
   - Build and deploy Flutter applications with modern development practices.
-
 - [ ] Grow as a Software Developer
   - Learn new technologies, improve coding practices, and write maintainable software.
 
@@ -126,15 +144,13 @@ Currently exploring open-source projects and looking forward to making meaningfu
 
 ## 🤝 Connect with Me
 
-* GitHub: https://github.com/lordhanya
-* LinkedIn: https://linkedin.com/in/mdashifrahman
-
----
-
-## 📩 Contact
-
-* Email: [md.ashif.dev@gmail.com](md.ashif.dev@gmail.com)
-* Portfolio: [ashifcodes.tech](https://ashifcodes.tech)
+<p align="center">
+  <a href="https://github.com/lordhanya"><img src="https://img.shields.io/badge/GitHub-lordhanya-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mdashifrahman"><img src="https://img.shields.io/badge/LinkedIn-mdashifrahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ashifcodes/"><img src="https://img.shields.io/badge/Instagram-ashifcodes-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:md.ashif.dev@gmail.com"><img src="https://img.shields.io/badge/Email-md.ashif.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://ashifcodes.tech"><img src="https://img.shields.io/badge/Portfolio-ashifcodes.tech-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -143,3 +159,7 @@ Currently exploring open-source projects and looking forward to making meaningfu
 If you find my work helpful, consider supporting me:
 
 - [https://ashifcodes.tech](https://ashifcodes.tech)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:8A2BE2&height=140&section=footer" width="100%" />
