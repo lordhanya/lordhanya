@@ -1,12 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:7C3AED,100:00D9FF&height=220&section=header&text=Md%20Ashif%20Rahman&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Building%20software%20·%20Solving%20problems%20·%20Exploring%20CS&descSize=16&descAlignY=56&animation=fadeIn" width="100%" />
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ashif+%F0%9F%91%8B;CS+Student+%F0%9F%8E%93;Full-Stack+%26+Flutter+Developer+%F0%9F%93%B1;Learning+System+Design+%26+DSA+%F0%9F%8C%B1)](https://github.com/lordhanya)
-
-</div>
-
-Building software, solving problems, and exploring computer science.
+<p align="center">
+  <img src="assets/header-terminal.svg" alt="Ashif's animated terminal intro" width="100%" />
+</p>
 
 ---
 
@@ -81,19 +75,6 @@ Computer Science student with a strong background in software development and pr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api?username=lordhanya&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=lordhanya&theme=algolia&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=lordhanya&theme=algolia&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
@@ -162,4 +143,6 @@ If you find my work helpful, consider supporting me:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:8A2BE2&height=140&section=footer" width="100%" />
+<p align="center">
+  <img src="assets/footer-wave.svg" alt="animated wave divider" width="100%" />
+</p>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" width="900" height="90" role="img" aria-label="wave divider">
+  <defs>
+    <linearGradient id="fg1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8A2BE2">
+        <animate attributeName="stop-color" values="#8A2BE2;#00D9FF;#8A2BE2" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#00D9FF">
+        <animate attributeName="stop-color" values="#00D9FF;#7C3AED;#00D9FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="fg2" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#00D9FF">
+        <animate attributeName="stop-color" values="#00D9FF;#8A2BE2;#00D9FF" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#8A2BE2">
+        <animate attributeName="stop-color" values="#8A2BE2;#00D9FF;#8A2BE2" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <style>
+    text { font-family: 'Cascadia Code','Fira Code',Consolas,Menlo,monospace; }
+    .flow { fill: none; stroke-linecap: round; }
+  </style>
+
+  <path class="flow" d="M0,28 C225,6 675,50 900,28" stroke="url(#fg1)" stroke-width="2.5"
+        stroke-dasharray="26 14" opacity=".95">
+    <animate attributeName="stroke-dashoffset" from="40" to="0" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+
+  <path class="flow" d="M0,46 C225,66 675,4 900,46" stroke="url(#fg2)" stroke-width="2"
+        stroke-dasharray="20 16" opacity=".55">
+    <animate attributeName="stroke-dashoffset" from="0" to="-36" dur="6.5s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="450" y="74" text-anchor="middle" font-size="13" letter-spacing="3" fill="#7C3AED">&#60;/&#62; code · craft · curiosity &#60;/&#62;</text>
+</svg>
